@@ -12,7 +12,7 @@ Data Bricks :
 https://www.youtube.com/watch?v=mYc47KEV2vc
 
 ## Usefull channels:
-https://www.youtube.com/c/DineshPriyankara/videos
-https://www.youtube.com/user/SQLPASSTV/videos
-https://www.youtube.com/c/TechLake/videos
+1) https://www.youtube.com/c/DineshPriyankara/videos
+2) https://www.youtube.com/user/SQLPASSTV/videos
+3) https://www.youtube.com/c/TechLake/videos
 
