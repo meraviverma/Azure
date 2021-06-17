@@ -11,3 +11,8 @@ https://www.cathrinewilhelmsen.net/
 Data Bricks :
 https://www.youtube.com/watch?v=mYc47KEV2vc
 
+## Usefull channels:
+https://www.youtube.com/c/DineshPriyankara/videos
+https://www.youtube.com/user/SQLPASSTV/videos
+https://www.youtube.com/c/TechLake/videos
+
